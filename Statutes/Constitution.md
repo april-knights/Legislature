@@ -1,4 +1,4 @@
-[Version: 2.1]: #
+[Version: 2.2]: #
 
 ## Preamble
 
@@ -11,7 +11,8 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 
 ### Section 2 - Appointment
 1. The Grandmaster is voted in by the consent of our order by a popular vote.
-2. To be eligible to run for Grandmaster, a candidate must be both an officer and have participated in two full campaigns.
+2. To be eligible to run for Grandmaster, a candidate must both be an officer, and have participated in two campaigns.
+3. Additionally, a candidate cannot nominate themselves, and must have another Knight nominate them for the position and a second Knight to second that nomination. Only then can the nominee accept and register as a candidate for election.
 3. The Grandmaster shall serve a term lasting from the moment they are sworn in until the next April event is finished.
 
 ### Section 3 - Powers
@@ -85,9 +86,12 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 
 1. “Absolute majority”: The number of Yes votes must be counted against the total number of Yes, No, Abstain, and Absent. Unless specified otherwise, the default threshold for “majority” is over half.
 2. “Simple majority”: The number of Yes votes must be counted against the total number of Yes or No. Abstaining or failing to vote lowers the required Yes votes to pass.
+3. “Officer”: A Knight with the rank of Sergeant or higher.
+4. “Campaign”: The yearly April Fool’s event.
 
 ## Versions
 
 1. Constitution v1.0 was passed [2018-12-18](/Laws/6-301%20Constitution.md).
 2. Constitution v1.5 was passed [2019-05-12](/Laws/6-303%20Vindicator%20Maximus%20Act.md).
 3. Constitution v2.0 was passed [2021-07-14](/Laws/7-301%20Constitutional%20Rearrangement%20Act.md).
+4. Constitution v2.1 was passed [2022-02-25](/Laws/7-302%20Constitutional%20Revision%20Act.md).
