@@ -1,4 +1,4 @@
-[Version: 1.0]: #
+[Version: 1.5]: #
 
 ## Preamble
 Our Order was founded in the days of the Button as a force of balance and a beacon of hope. We strive to spread the glory of our Order far and wide, to unite the people of Reddit towards a common goal, and to oppose the evil forces of chaos that seek to ruin the fun of the April Events.
@@ -27,7 +27,7 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 ## Article 2
 
 ### Section 1
-1. The Upper Council shall consist of seven additional members to the Grandmaster, the First Ranger, the First Steward, the First Builder, the Grand Inquisitor, the Necromancer and two advisors, all appointed by the Grandmaster.
+1. The Upper Council shall consist of seven additional members to the Grandmaster: the First Ranger, the First Steward, the First Builder, the Grand Inquisitor, the leader of the Arcaenum, and two advisors, all appointed by the Grandmaster.
 2. All legislation must be voted on by the Upper Council by a simple majority of at least five of the eight Upper Council members agreeing.
 3. After passing in the Upper Council, it must also pass the Lower Council and be voted on by the battalion Commanders.
 
@@ -39,9 +39,10 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 ## Article 3
 
 ### Section 1
-1. Each battalion commander will be a member of the Lower Council and is entitled to one vote.
+1. Each battalion commander will be a member of the Lower Council and is entitled to one vote with two exceptions: the Arcaenum, whose members should reside in other Battalions and be represented there, and the Arbiters whose impartiality must remain unimpeachable and therefore do not vote in either Council.
 2. The Lower Council has the power to introduce legislation. All legislation that passes the Lower Council must be deemed constitutional by the Upper Council and approved by the Grandmaster.
-3. If the battalion commander has obligations in the Upper Council, the battalions First Officer will take their Commanders place in the Lower Council.
+3. If a battalion commander has obligations in the Upper Council, the battalion's First Officer, whatever their official rank is, will take their Commander's place in the Lower Council.
+4. Should there be a case where a Battalion is represented in the Lower Council by a First Officer and that individual is called to also serve on the Upper Council, the position of First Officer needs must be passed to the next individual worthy of the responsibility of serving in the Lower Council for their Battalion.
 
 ## Article 4
 
@@ -88,3 +89,21 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 
 ### Section 1
 1. The Councils have the power to propose amendments to this constitution. The amendment must be ratified through a two thirds majority in both Councils to be added to this constitution.
+
+## Amendment 1
+
+### Section 1
+1. The Grandmaster and Councils have created a new Battalion, the Arbiters.
+2. This new Battalion Commander is selected in the same method as all other Commanders, through Upper Council vote and confirmation.
+3. Members of the Arbiters are empowered to maintain Order across Knight communication platforms as designated and selected by the Upper Council.
+4. Actions allowed include muting, kicking, or access restriction to individual or individuals failing to maintain discipline and decorum in accordance with posted rules.
+
+### Section 2
+1. Arbiters are granted access to most officially April Knight sponsored communication platforms
+2. This does not include access to platforms dedicated to sub-groups within the Order
+3. This access includes both the Upper and Lower Council chambers, whether for discussion or voting.
+
+### Section 3
+1. In order to maintain unimpeachable neutrality, Arbiters may not participate in public or semi public Partisan activities such as Lower or Upper Council debates.
+2. As such, the Arbiters are the only Battalion to not have Lower Council representation.
+3. This restriction in no way shape or form places any limitation on any Arbiter’s right to vote in Order wide polling, e.g. the Grandmaster elections.
