@@ -1,4 +1,4 @@
-[Version: 2.4]: #
+[Version: 2.5]: #
 
 ## Preamble
 
@@ -22,7 +22,7 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 ## Article 2 - The Upper Council
 
 ### Section 1 - Membership
-1. The Upper Council shall consist of the Grandmaster, the First Ranger, the First Steward, the First Builder, the Grand Inquisitor, the leader of the Arcanaeum, and up to two advisors, all appointed by the Grandmaster.
+1. The Upper Council shall consist of the Grandmaster, the First Ranger, the First Herald, the First Builder, the Grand Inquisitor, the leader of the Arcanaeum, and up to two advisors, all appointed by the Grandmaster.
 2. The Grandmaster shall have the power to change their Upper Council upon being elected to office. If a member of the Upper Council leaves of their own choice, the Grandmaster shall have the power to appoint one new person to the Upper Council, moving seats if necessary. Further than this, if the Grandmaster wishes to make changes to the Upper Council, they may petition for the consent of the Lower Council via a simple majority vote no sooner than three months since the last Upper Council change.
 
 ### Section 2 - Powers
@@ -96,3 +96,4 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 3. Constitution v2.0 was passed [2021-07-14](../Laws/7-301%20Constitutional%20Rearrangement%20Act.md).
 4. Constitution v2.1 was passed [2022-02-25](../Laws/7-302%20Constitutional%20Revision%20Act.md).
 5. Constitution v2.2 was passed [2023-04-02](../Laws/8-104%20Election%20Act.md).
+6. Constitution v2.3 was passed [2023-04-13](../Laws/8-104%20Election%20Act.md).
