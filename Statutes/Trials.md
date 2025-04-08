@@ -1,4 +1,4 @@
-[Version: 1.0]: #
+[Version: 1.1]: #
 
 # Trials
 
@@ -24,7 +24,7 @@ Before the trial is conducted, if the Grandmaster or the Grand Inquisitor feel t
 
 ## Section II - Judicial party
 A trial for a Knight shall consist of 5 tribunal members. If the accused is on the Upper or Lower Council, the tribunal must consist of officers. These members should be chosen to be as impartial as feasibly possible.
-The moderator of the trial holds a lot of responsibility. The Grandmaster is the default choice for moderator. If the Grandmaster is accused, this responsibility may pass to the Grand Inquisitor. If it needs to be passed further, it passes to the First Ranger, First Steward, then First Builder in that order.
+The moderator of the trial holds a lot of responsibility. The Grandmaster is the default choice for moderator. If the Grandmaster is accused, this responsibility may pass to the Grand Inquisitor. If it needs to be passed further, it passes to the First Ranger, First Herald, then First Builder in that order.
 The moderator chooses the five tribunal members. Anyone who does not wish to be a member of the tribunal may decline the position with no adverse consequences, and another is chosen in their place. In the interest of balancing partiality, the accused may nominate tribunal members, but the moderator makes the final decision on who is chosen.
 
 ## Section III - Procedure
