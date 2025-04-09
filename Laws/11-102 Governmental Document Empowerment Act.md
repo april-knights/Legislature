@@ -3,8 +3,8 @@
 [Proposed Date: 4/17/2025]: #
 [Passed Date: -]: #
 
-
 # Governmental Document Empowerment Act
+
 ## Purpose
 To ensure that changes to the laws of the April Knights are well maintained, to reduce the maintenance burden of tracking old changes, and to increase the ease of making needed changes in the future.
 
