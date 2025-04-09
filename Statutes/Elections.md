@@ -1,5 +1,6 @@
 [Version: 2.0]: #
 
+# Elections
 The purpose of this law is to codify the necessary election traditions into formal law, set timelines for each step of an election, and serve as a set of instructions for the Election Administrator.
 
 ## Article I - Election Administrator
@@ -65,7 +66,7 @@ The purpose of this law is to codify the necessary election traditions into form
 
 ### Section I
 1. All oathsworn Knights of the Order are permitted to exercise political speech in support or in opposition of candidates, as long as it is not inflammatory or breaks the rules of either the Subreddit or the Discord.
-2. The Election Administrator, moderators, and the Arbiters have the power to determine if posts related to the election and Knight politics are inflammatory or break our rules and have the power to remove those posts in violation.
+2. The Election Administrator or moderators have the power to determine if posts related to the election and Knight politics are inflammatory or break our rules and have the power to remove those posts in violation.
 3. Commanders have the power to determine if posts in battalion chats or subreddits related to the election and Knight politics are inflammatory or break our rules and have the power to remove those posts in violation.
 
 ## Article VII - Enactment

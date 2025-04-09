@@ -1,7 +1,8 @@
-[Version: 2.5]: #
+[Version: 2.6]: #
+
+# The Constitution of the April Knights
 
 ## Preamble
-
 Our Order was founded in the days of the Button as a force of balance and a beacon of hope. We strive to spread the glory of our Order far and wide, to unite the people of Reddit towards a common goal, and to oppose the evil forces of chaos that seek to ruin the fun of the April Events.
 
 ## Article 1 - The Grandmaster
@@ -88,12 +89,3 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 2. “Simple majority”: The number of Yes votes must be counted against the total number of Yes or No. Abstaining or failing to vote lowers the required Yes votes to pass.
 3. “Officer”: A Knight with the rank of Sergeant or higher.
 4. “Campaign”: The yearly Reddit April Fool’s event.
-
-## Versions
-
-1. Constitution v1.0 was passed [2018-12-18](/Laws/6-301%20Constitution.md).
-2. Constitution v1.5 was passed [2019-05-12](/Laws/6-303%20Vindicator%20Maximus%20Act.md).
-3. Constitution v2.0 was passed [2021-07-14](/Laws/7-301%20Constitutional%20Rearrangement%20Act.md).
-4. Constitution v2.1 was passed [2022-02-25](/Laws/7-302%20Constitutional%20Revision%20Act.md).
-5. Constitution v2.2 was passed [2023-04-02](/Laws/8-104%20Election%20Act.md).
-6. Constitution v2.3 was passed [2023-04-13](/Laws/8-104%20Election%20Act.md).

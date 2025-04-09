@@ -1,5 +1,7 @@
 [Version: 1.2]: #
 
+# Document Standardization
+
 ## Article 1 - Version Standardization
 
 ### Section I

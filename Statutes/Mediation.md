@@ -1,5 +1,6 @@
 [Version: 1.0]: #
 
+# Mediation
 If a Knight is accused of unsavoury behaviour by any member of the April Knights, all actions must be taken to address the alleged behaviour in a fair manner. This law recognises that these situations can often be resolved with communication, rather than by trial or severe consequence. This Act recognises that these situations can be complicated, and that multiple perspectives and feelings can be involved. The purpose of this Act is not to define who an ‘unsavoury person’ is, but to acknowledge when there has been ‘unsavoury behaviour’ (see A1, SI) that has created a ‘negative impact’ (see A1, SII), and how to address this effectively. The aim of the legislation will be to outline steps that will encourage self-reflection and accountability, while promoting understanding and communication. Therefore, this law outlines what behaviour this Act is relevant to, the occasions in which a mediation may be called for, the appointment of the Moderation Committee, what will happen when more than one Knight is impacted by the behaviour, and what outcomes may be used to resolve the situation. It is hoped that this legislation may free-up the Grandmaster and Upper Council from having to directly deal with all disagreements or conflict.
 
 ## Article 1 - Definitions
