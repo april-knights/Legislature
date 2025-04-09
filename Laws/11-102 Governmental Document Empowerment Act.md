@@ -17,8 +17,9 @@ If passed, this act codifies the creation of separate laws and statutes for the 
 
 ## Definitions
 * Bill: A proposed change to the governing rules of the April Knights that must pass both the upper and the lower council.
-* Law: A bill that has passed.
+* Act: A bill that has passed.
 * Statute: Specific rules related to the operation of the April Knights as designated by law.
+* Law: Any legislation that has been voted on and passed.
 * Repository: A collection of related files and folders that are stored together in a single place.
 * Repo: A repository.
 * Version Control System (VCS): A generic term to describe tools that are purpose built for tracking changes to a central repository.
