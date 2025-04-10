@@ -1,5 +1,7 @@
 [Version: 1.1]: #
 
+# Vindicator Maximus
+
 ## Article 1 - Rationale and Process
 
 ### Section I
