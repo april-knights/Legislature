@@ -8,12 +8,9 @@
 ## Purpose
 To ensure that changes to the laws of the April Knights are well maintained, to reduce the maintenance burden of tracking old changes, and to increase the ease of making needed changes in the future.
 
-It is the intent of this act to move the April Knights towards a proper VCS for all official government affairs. Moving to a VCS will also have the benefit of allowing the April Knights to tighten the scope of text within the statutes, making it faster and easier to read the legislative rules while still allowing for greater insight to be available when needed.
+It is the intent of this act to move the April Knights towards a proper Version Control System (VCS) for all official government affairs. Moving to a VCS will also have the benefit of allowing the April Knights to tighten the scope of text within the statutes, making it faster and easier to read the legislative rules while still allowing for greater insight to be available when needed.
 
 This bill does not prevent non-official usage of other systems such as google docs for government and similarly does not apply to anything that isn't part of the official governing documents of the April Knights.
-
-## Background
-If passed, this act codifies the creation of separate laws and statutes for the April Knights. Statutes are the written rules that govern the order. Laws are the broader conversation and dealings that enact, amend, or repeal text within the statutes. Using the order's VCS, both councils will vote on bills that may effect any changes in any number of specific statutes.
 
 ## Definitions
 * Bill: A proposed change to the governing rules of the April Knights that must pass both the upper and the lower council.
@@ -26,12 +23,17 @@ If passed, this act codifies the creation of separate laws and statutes for the 
 * Git: The most widely used VCS implementation.
 * Github: One website that can host git repositories.
 
+## Background
+If passed, this act codifies the creation of separate laws and statutes for the April Knights. Statutes are the written rules that govern the order. Laws are the broader conversation and dealings that enact, amend, or repeal text within the statutes. Using the order's VCS, both councils will vote on bills that may effect any changes in any number of specific statutes.
+
+One driving intent with this law is to make it so that it is easy for our order to preserve the work that has been done in the past (specifically the who, what, why, and when of legislation). By separating the passed bills/laws from statutes and adding appropriate metadata to the legislation (Authors, date passed, etc.), the past is indelliby written without being a maintenance burden for the order to work around. As an example, our current structure makes it hard to tell how many people have specifically amended our constitution. Using a VCS, this become trivial as all changes to the constitution are tracked right along side the constitution.
+
 ## Implementation
 Bills should generally be composed with useful headings to provide additional clarity aligned with purposes such as the following:
 
     * Purpose: A brief overview of the change or issue it seeks to address.
-    * Background: Additional context, relevant history, or justification for the bill.
     * Definitions: Anything that may need clarified within the bill text (including usage within the statutes).
+    * Background: Additional context, relevant history, or justification for the bill.
     * Implementation: How the bill is to take effect and what changes will happen.
     * Statutory Changes: List the documents or sections that are intended to be changed by the bill, optionally with links.
     * Enactment: What the bill is to take effect along with any automatic or other expiration.
@@ -57,6 +59,14 @@ As the arbiters have been removed from the order, mentions of them also are remo
 The most significant changes be reviewed from this act:
 
 * [Legislation](/Statutes/Legislation.md) (renamed from Voting to Legislation)
+
+## Workflow
+As an example of what the workflow would look like for proposing legislation:
+
+1. Fork/clone the repo to your own git repo.
+1. Create your bill in the Laws folder.
+1. Enact, amend, or replease statutes as needed in the Statutes folder.
+1. Submit a pull request and announce in council as normal for the legislative process.
 
 ## Enactment
 This bill will take effect as soon as it passes the upper and lower councils. Future changes to further simplify or make statutes more intuitive should be expected, but there are no riders that automatically enact anything more than what is contained in this act.
