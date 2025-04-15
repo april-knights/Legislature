@@ -2,7 +2,7 @@
 
 # Legislation
 
-## Propsing Legislation
+## Proposing Legislation
 Changes to proposed Legislation are permitted during the period after its submission to the Council considering it, whether in private Council chambers, or in the public Conclave. There is a minimum of two weeks for a piece of legislation to be officially proposed before it can be voted on. In the course of debate, changes or edits are permitted until one week before the voting period begins. Should it be required that changes be made during the last week leading up to the vote, the vote must be rescheduled so that another week may pass for public visibility. As outlined in the Constitution, the timing and scheduling limitations may be waived during an April event. See Appendix I for workflow.
 
 ## Discussing Legislation

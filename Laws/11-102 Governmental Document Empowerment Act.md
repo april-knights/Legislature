@@ -34,9 +34,8 @@ Bills should generally be composed with useful headings to provide additional cl
     * Purpose: A brief overview of the change or issue it seeks to address.
     * Definitions: Anything that may need clarified within the bill text (including usage within the statutes).
     * Background: Additional context, relevant history, or justification for the bill.
-    * Implementation: How the bill is to take effect and what changes will happen.
     * Statutory Changes: List the documents or sections that are intended to be changed by the bill, optionally with links.
-    * Enactment: What the bill is to take effect along with any automatic or other expiration.
+    * Enactment: When and/or how the law is to take effect along with any automatic or other expiration clause (think "implementation").
 
 The above is not an exhaustive list of titles that may be used within an act, but should be considered a starting template when creating new legislation.
 
