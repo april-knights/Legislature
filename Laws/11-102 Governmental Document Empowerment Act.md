@@ -28,7 +28,7 @@ If passed, this act codifies the creation of separate laws and statutes for the 
 
 One driving intent with this law is to make it so that it is easy for our order to preserve the work that has been done in the past (specifically the who, what, why, and when of legislation). By separating the passed bills/laws from statutes and adding appropriate metadata to the legislation (Authors, date passed, etc.), the past is indelliby written without being a maintenance burden for the order to work around. As an example, our current structure makes it hard to tell how many people have specifically amended our constitution. Using a VCS, this become trivial as all changes to the constitution are tracked right along side the constitution.
 
-## Implementation
+## Legislative Procedure
 Bills should generally be composed with useful headings to provide additional clarity aligned with purposes such as the following:
 
     * Purpose: A brief overview of the change or issue it seeks to address.
@@ -43,7 +43,7 @@ Each article or section heading may be listed with an article or section number 
 
 When a statute update doesn't have a clear act associated with its change, it may be noted what the effective date of the version is along with what act caused the change (such as in the case of the [8-104](/Laws/8-104%20Election%20Act.md) editing the constitution at a later date)
 
-This bill does not formally define where the authoritative list of governing documents is to reside and specifically leaves that responsibility to the Lower Council by a majority vote. The official repository of the governing documents can be in github, gitlab, a git repo stored on the Archmage's computer, or anywhere else that the majority of the Lower Council decides.
+This bill does not formally define where the authoritative list of governing documents is to reside and specifically leaves that responsibility to the Lower Council by a majority vote. The official repository of the governing documents can be in github, gitlab, a git repo stored on the Archmage's computer, or anywhere else that a simple majority of the Lower Council decides.
 
 ### Migration Notes
 There are some minor changes made to acts as a part of migrating to the VCS that change their links or remove specific text from the act in order to prevent duplicating text within the repository. Preventing unnecessary duplication makes it easier to find exactly what is desired in the statutes quickly.
