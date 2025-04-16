@@ -14,7 +14,7 @@ This act does not prevent non-official usage of other systems such as google doc
 
 ## Definitions
 * Bill: A proposed change to the governing rules of the April Knights that must pass both the upper and the lower council.
-* Act: A type of legislation that principally enacts, amends, and repeals statutes.
+* Act: A legislative document.
 * Statute: Specific rules related to the operation of the April Knights as designated by acts.
 * Law: Any legislation that has been voted on and passed to become binding.
 * Repository (Repo): A collection of related files and folders that are stored together in a single place.
@@ -42,7 +42,7 @@ Each article or section heading may be listed with an article or section number 
 
 When a statute update doesn't have a clear act associated with its change, it may be noted what the effective date of the version is along with what act caused the change (such as in the case of [8-104 (Election Act)](/Laws/8-104%20Election%20Act.md) which edited the constitution at a later date)
 
-This act does not formally define where the authoritative list of governing documents is to reside and specifically leaves that responsibility to the Lower Council by a majority vote. The official repository of the governing documents can be in github, gitlab, a git repo stored on the Archmage's computer, or anywhere else that a simple majority of the Lower Council decides.
+The authoritative list of governing documents is to reside in the official April Knights github repository.
 
 ### Migration Notes
 There are some minor changes made to acts as a part of migrating to the VCS that change their links or remove specific text from the act in order to prevent duplicating text within the repository. Preventing unnecessary duplication makes it easier to find exactly what is desired in the statutes quickly.
@@ -67,4 +67,4 @@ As an example of what the workflow would look like for proposing legislation:
 1. Submit a pull request and announce in council as normal for the legislative process.
 
 ## Enactment
-This act will take effect as soon as it passes the Upper Council and Lower Council and the Lower Council designates where the official repo is located. Future changes to further simplify or make statutes more intuitive should be expected, but there are no riders that automatically enact anything more than what is contained in this act.
+This act will take effect as soon as it passes the Upper Council and Lower Council. Future changes to further simplify or make statutes more intuitive should be expected, but there are no riders that automatically enact anything more than what is contained in this act.
