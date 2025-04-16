@@ -10,40 +10,39 @@ To ensure that changes to the laws of the April Knights are well maintained, to 
 
 It is the intent of this act to move the April Knights towards a proper Version Control System (VCS) for all official government affairs. Moving to a VCS will also have the benefit of allowing the April Knights to tighten the scope of text within the statutes, making it faster and easier to read the legislative rules while still allowing for greater insight to be available when needed.
 
-This bill does not prevent non-official usage of other systems such as google docs for government and similarly does not apply to anything that isn't part of the official governing documents of the April Knights.
+This act does not prevent non-official usage of other systems such as google docs for government and similarly does not apply to anything that isn't part of the official governing documents of the April Knights.
 
 ## Definitions
 * Bill: A proposed change to the governing rules of the April Knights that must pass both the upper and the lower council.
-* Act: A bill that has passed.
-* Statute: Specific rules related to the operation of the April Knights as designated by law.
-* Law: Any legislation that has been voted on and passed.
-* Repository: A collection of related files and folders that are stored together in a single place.
-* Repo: A repository.
+* Act: A type of legislation that principally enacts, amends, and repeals statutes.
+* Statute: Specific rules related to the operation of the April Knights as designated by acts.
+* Law: Any legislation that has been voted on and passed to become binding.
+* Repository (Repo): A collection of related files and folders that are stored together in a single place.
 * Version Control System (VCS): A generic term to describe tools that are purpose built for tracking changes to a central repository.
 * Git: The most widely used VCS implementation.
 * Github: One website that can host git repositories.
 
 ## Background
-If passed, this act codifies the creation of separate laws and statutes for the April Knights. Statutes are the written rules that govern the order. Laws are the broader conversation and dealings that enact, amend, or repeal text within the statutes. Using the order's VCS, both councils will vote on bills that may effect any changes in any number of specific statutes.
+If passed, this act codifies the creation of separate acts and statutes for the April Knights. Statutes are the written rules that govern the order. Statutes are enacted, amended, and repealed by acts. Acts also contain the broader conversation about the statutes. Using the order's VCS, both councils will vote on acts that may each effect changes in any number of statutes.
 
-One driving intent with this law is to make it so that it is easy for our order to preserve the work that has been done in the past (specifically the who, what, why, and when of legislation). By separating the passed bills/laws from statutes and adding appropriate metadata to the legislation (Authors, date passed, etc.), the past is indelliby written without being a maintenance burden for the order to work around. As an example, our current structure makes it hard to tell how many people have specifically amended our constitution. Using a VCS, this become trivial as all changes to the constitution are tracked right along side the constitution.
+One driving intent with this act is to make it so that it is easy for our order to preserve the work that has been done in the past (specifically the who, what, why, and when of legislation). By separating the acts from the statutes and adding appropriate metadata to the legislation (Authors, date passed, etc.), the past is indelliby written without being a maintenance burden for the order in the future. As an example, our current structure makes it hard to tell how many people have specifically amended our constitution. Using a VCS, this become trivial as all authors of changes to the constitution are tracked right along side their contributions to the constitution.
 
 ## Legislative Procedure
-Bills should generally be composed with useful headings to provide additional clarity aligned with purposes such as the following:
+Acts should generally be composed with useful headings to provide additional clarity aligned with purposes such as the following:
 
     * Purpose: A brief overview of the change or issue it seeks to address.
     * Definitions: Anything that may need clarified within the bill text (including usage within the statutes).
     * Background: Additional context, relevant history, or justification for the bill.
     * Statutory Changes: List the documents or sections that are intended to be changed by the bill, optionally with links.
-    * Enactment: When and/or how the law is to take effect along with any automatic or other expiration clause (think "implementation").
+    * Enactment: When and/or how the act is to take effect along with any automatic or other expiration clause (think "implementation").
 
-The above is not an exhaustive list of titles that may be used within an act, but should be considered a starting template when creating new legislation.
+The above is not an exhaustive list of headings that may be used within an act, but should be considered a starting template when drafting a bill.
 
 Each article or section heading may be listed with an article or section number and the heading name or just the heading name. Acts and their corresponding statutory changes should follow the markdown standard where possible.
 
-When a statute update doesn't have a clear act associated with its change, it may be noted what the effective date of the version is along with what act caused the change (such as in the case of the [8-104](/Laws/8-104%20Election%20Act.md) editing the constitution at a later date)
+When a statute update doesn't have a clear act associated with its change, it may be noted what the effective date of the version is along with what act caused the change (such as in the case of [8-104 (Election Act)](/Laws/8-104%20Election%20Act.md) which edited the constitution at a later date)
 
-This bill does not formally define where the authoritative list of governing documents is to reside and specifically leaves that responsibility to the Lower Council by a majority vote. The official repository of the governing documents can be in github, gitlab, a git repo stored on the Archmage's computer, or anywhere else that a simple majority of the Lower Council decides.
+This act does not formally define where the authoritative list of governing documents is to reside and specifically leaves that responsibility to the Lower Council by a majority vote. The official repository of the governing documents can be in github, gitlab, a git repo stored on the Archmage's computer, or anywhere else that a simple majority of the Lower Council decides.
 
 ### Migration Notes
 There are some minor changes made to acts as a part of migrating to the VCS that change their links or remove specific text from the act in order to prevent duplicating text within the repository. Preventing unnecessary duplication makes it easier to find exactly what is desired in the statutes quickly.
@@ -51,7 +50,7 @@ There are some minor changes made to acts as a part of migrating to the VCS that
 The [First Herald Renaming Act](/Laws/9-102%20First%20Herald%20Renaming%20Act.md) (FHRA) calls for changes that don't make sense in a VCS to the Mutare Magia Act (MMA). FHRA calls for the MMA to be updated to version 7.1. However, in the VCS, acts don't have versions or updates; once an act is passed, it never changes. Only statutes have versions because they are the documents that get edits from acts.
 
 ## Statutory Changes
-All governing documents within the April Knights are officially changed as a result of this bill, so they are not being listed individually. In all documents, most numbering has been removed as it is no longer needed and only increases the maintenance burden of keeping things up to date.
+All governing documents within the April Knights are officially changed as a result of this act, so they are not being listed individually. In all documents, most numbering has been removed as it is no longer needed and only increases the maintenance burden of keeping things up to date.
 
 As the arbiters have been removed from the order, mentions of them also are removed.
 
@@ -63,9 +62,9 @@ The most significant changes be reviewed from this act:
 As an example of what the workflow would look like for proposing legislation:
 
 1. Fork/clone the repo to your own git repo.
-1. Create your bill in the Laws folder.
+1. Create your bill in the Acts folder.
 1. Enact, amend, or replease statutes as needed in the Statutes folder.
 1. Submit a pull request and announce in council as normal for the legislative process.
 
 ## Enactment
-This bill will take effect as soon as it passes the upper and lower councils. Future changes to further simplify or make statutes more intuitive should be expected, but there are no riders that automatically enact anything more than what is contained in this act.
+This act will take effect as soon as it passes the Upper Council and Lower Council and the Lower Council designates where the official repo is located. Future changes to further simplify or make statutes more intuitive should be expected, but there are no riders that automatically enact anything more than what is contained in this act.
