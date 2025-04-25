@@ -25,7 +25,7 @@ This act does not prevent non-official usage of other systems such as google doc
 ## Background
 If passed, this act codifies the creation of separate acts and statutes for the April Knights. Statutes are the written rules that govern the order. Statutes are enacted, amended, and repealed by acts. Acts also contain the broader conversation about the statutes. Using the order's VCS, both councils will vote on acts that may each effect changes in any number of statutes.
 
-One driving intent with this act is to make it so that it is easy for our order to preserve the work that has been done in the past (specifically the who, what, why, and when of legislation). By separating the acts from the statutes and adding appropriate metadata to the legislation (Authors, date passed, etc.), the past is indelliby written without being a maintenance burden for the order in the future. As an example, our current structure makes it hard to tell how many people have specifically amended our constitution. Using a VCS, this become trivial as all authors of changes to the constitution are tracked right along side their contributions to the constitution.
+One driving intent with this act is to make it so that it is easy for our order to preserve the work that has been done in the past (specifically the who, what, why, and when of legislation). By separating the acts from the statutes and adding appropriate metadata to the legislation (Authors, date passed, etc.), the past is indeliby written without being a maintenance burden for the order in the future. As an example, our current structure makes it hard to tell how many people have specifically amended our constitution. Using a VCS, this become trivial as all authors of changes to the constitution are tracked right along side their contributions to the constitution.
 
 ## Legislative Procedure
 Acts should generally be composed with useful headings to provide additional clarity aligned with purposes such as the following:
@@ -42,10 +42,10 @@ Each article or section heading may be listed with an article or section number 
 
 When a statute update doesn't have a clear act associated with its change, it may be noted what the effective date of the version is along with what act caused the change (such as in the case of [8-104 (Election Act)](/Laws/8-104%20Election%20Act.md) which edited the constitution at a later date)
 
-The authoritative list of governing documents is to reside in the official April Knights github repository.
+The authoritative list of governing documents is to reside in the official April Knights github repository: https://github.com/april-knights/Legislature.
 
 ### Migration Notes
-There are some minor changes made to acts as a part of migrating to the VCS that change their links or remove specific text from the act in order to prevent duplicating text within the repository. Preventing unnecessary duplication makes it easier to find exactly what is desired in the statutes quickly.
+There are some minor changes made to acts, as a part of migrating to the VCS, that change their links or remove specific text from the act, in order to prevent duplicating text within the repository. Preventing unnecessary duplication makes it easier to find exactly what is desired in the statutes quickly.
 
 The [First Herald Renaming Act](/Laws/9-102%20First%20Herald%20Renaming%20Act.md) (FHRA) calls for changes that don't make sense in a VCS to the Mutare Magia Act (MMA). FHRA calls for the MMA to be updated to version 7.1. However, in the VCS, acts don't have versions or updates; once an act is passed, it never changes. Only statutes have versions because they are the documents that get edits from acts.
 
