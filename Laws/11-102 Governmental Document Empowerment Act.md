@@ -20,7 +20,7 @@ This act does not prevent non-official usage of other systems such as google doc
 * Repository (Repo): A collection of related files and folders that are stored together in a single place.
 * Version Control System (VCS): A generic term to describe tools that are purpose built for tracking changes to a central repository.
 * Git: The most widely used VCS implementation.
-* Github: One website that can host git repositories.
+* Github: The most popular website for hosting git repositories.
 
 ## Background
 If passed, this act codifies the creation of separate acts and statutes for the April Knights. Statutes are the written rules that govern the order. Statutes are enacted, amended, and repealed by acts. Acts also contain the broader conversation about the statutes. Using the order's VCS, both councils will vote on acts that may each effect changes in any number of statutes.
@@ -36,13 +36,13 @@ Acts should generally be composed with useful headings to provide additional cla
     * Statutory Changes: List the documents or sections that are intended to be changed by the bill, optionally with links.
     * Enactment: When and/or how the act is to take effect along with any automatic or other expiration clause (think "implementation").
 
-The above is not an exhaustive list of headings that may be used within an act, but should be considered a starting template when drafting a bill.
+The above is not an exhaustive list of headings that may be used within an act, but should be considered a starting template when drafting a bill. Templates for suggested documents such as Bills, policy change requests, constitutional amendments ad al will be provided and expanded to assure consistency across current and future experiences. If a template doesn’t exist, it can be requested via a discussion in the Lower Council or Consult the Council ticket.
 
 Each article or section heading may be listed with an article or section number and the heading name or just the heading name. Acts and their corresponding statutory changes should follow the markdown standard where possible.
 
 When a statute update doesn't have a clear act associated with its change, it may be noted what the effective date of the version is along with what act caused the change (such as in the case of [8-104 (Election Act)](/Laws/8-104%20Election%20Act.md) which edited the constitution at a later date)
 
-The authoritative list of governing documents is to reside in the official April Knights github repository: https://github.com/april-knights/Legislature.
+The authoritative list of governing documents is to be maintained by the Arcaenum and shall be known as the official April Knights repository.
 
 ### Migration Notes
 There are some minor changes made to acts, as a part of migrating to the VCS, that change their links or remove specific text from the act, in order to prevent duplicating text within the repository. Preventing unnecessary duplication makes it easier to find exactly what is desired in the statutes quickly.
