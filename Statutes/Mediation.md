@@ -188,3 +188,5 @@ In this case, the mediator/s can advise the Upper Council on their observations 
 ## Article 5 - Implementation
 
 The Mediation Act will come into effect immediately after majority vote in the Upper and Lower council. The Moderation Committee shall be formed immediately after this bill is established, as outlined in Article 4, and re-formed after each election as per the Appointment Process outlined in Article 2, Section III.
+---
+[View full history of this item](https://github.com/Szeraax/Legislature/commits/main/Statutes/Mediation.md)

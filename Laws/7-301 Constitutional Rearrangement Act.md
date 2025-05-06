@@ -105,3 +105,5 @@ This proposed revision changes only things that were incorrect in some way, redu
 ### Section 2 - Purpose
 ### Section 3 - Restrictions
 ~~~
+---
+[View full history of this item](https://github.com/Szeraax/Legislature/commits/main/Laws/7-301%20Constitutional%20Rearrangement%20Act.md)

@@ -73,3 +73,5 @@ The purpose of this law is to codify the necessary election traditions into form
 
 ### Section I
 1. This act shall take effect as soon as it is voted and approved by both Councils and confirmed by the Grandmaster, pending any implementation requirements.
+---
+[View full history of this item](https://github.com/Szeraax/Legislature/commits/main/Statutes/Elections.md)

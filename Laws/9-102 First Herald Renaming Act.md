@@ -28,3 +28,5 @@ An overview of changes made to the Document Standardization Act:
 ### Section III - Enactment
 
 This bill will go into effect at the time in which it has been voted on and approved by both Councils.
+---
+[View full history of this item](https://github.com/Szeraax/Legislature/commits/main/Laws/9-102%20First%20Herald%20Renaming%20Act.md)

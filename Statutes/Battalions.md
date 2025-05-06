@@ -14,3 +14,5 @@ All battalions fall under the supremacy of the Grandmaster and the authority of 
 
 ### Section IV
 This act shall take effect as soon as voted and approved by both Councils, and confirmed by the Grandmaster.
+---
+[View full history of this item](https://github.com/Szeraax/Legislature/commits/main/Statutes/Battalions.md)

@@ -56,3 +56,5 @@ These are examples for the purpose of making the process clear and not a hard re
 1. Public viewing period ends; all discussion, debate, and queries cease.
 1. Voting period opens; both Councils vote for or against Legislation in its entirety.
 1. Upon passage, the Grandmaster or First Ranger publishes it as Law in mandated locations.
+---
+[View full history of this item](https://github.com/Szeraax/Legislature/commits/main/Statutes/Legislation.md)
