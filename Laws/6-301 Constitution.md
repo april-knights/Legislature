@@ -21,5 +21,6 @@ Legendosh, First Builder and Commander of the Knights of Nevermore
 /u/Gryph667, First Steward, Commander of the Redguard, 5th Grandmaster of the Knights of the Button
 
 /u/FanboyGamer64, Head Scribe of The Order of the Scarlet Feather
+
 ---
 [View full history of this item](https://github.com/Szeraax/Legislature/commits/main/Laws/6-301%20Constitution.md)

@@ -49,5 +49,6 @@ A Knight found guilty of crimes may receive due penalty for their actions. Examp
 * Temporary mute or ban from any or all Knight communication
 * Permanent ban and full exile from the April Knights
 * Mothers will warn their children about you
+
 ---
 [View full history of this item](https://github.com/Szeraax/Legislature/commits/main/Statutes/Trials.md)

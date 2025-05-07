@@ -20,5 +20,6 @@ While the constitution outlines what qualifications a candidate must have, it ha
 
 ### Section II - Constitutional Amendment for Reduction of Eligible Candidates by 2024
 The expansion of people who could run for the position of Grandmaster was necessary to address the problem of a reduced number of qualified candidates. Since then, further legislation has allowed for more people to attain the previous qualifications befitting the title of Grandmaster. The purpose of this section is to preemptively pass an amendment after the 2023 Grandmaster Election to restore that prior standard. The purpose of the delay is not to suddenly and unexpectedly prevent a Sergeant from running and give them plenty of time to attain a higher rank. The amendment will affect the qualifications of Grandmaster candidates and will be read as the following point;
+
 ---
 [View full history of this item](https://github.com/Szeraax/Legislature/commits/main/Laws/8-104%20Election%20Act.md)

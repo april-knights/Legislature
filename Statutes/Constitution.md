@@ -89,5 +89,6 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 2. “Simple majority”: The number of Yes votes must be counted against the total number of Yes or No. Abstaining or failing to vote lowers the required Yes votes to pass.
 3. “Officer”: A Knight with the rank of Sergeant or higher.
 4. “Campaign”: The yearly Reddit April Fool’s event.
+
 ---
 [View full history of this item](https://github.com/Szeraax/Legislature/commits/main/Statutes/Constitution.md)

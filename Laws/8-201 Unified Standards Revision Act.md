@@ -15,5 +15,6 @@ As the April Knights grow and change as an organization, ranks and titles are ad
 
 ### Section II - Enactment
 This bill proposes a change to the Battalion Standardization Act, and minor changes to the Document Standards Act. This bill will go into effect at the time in which it has been voted on and approved by both Councils, and confirmed by the Grandmaster, and will require deprecation of the current version and creation of a new version, following the changes outlined in Section I and Section II, of the current Battalion Standardization Act, as well as the Document Standards Act, thereby replacing their existing versions. In addition, mothers will warn their children about this.
+
 ---
 [View full history of this item](https://github.com/Szeraax/Legislature/commits/main/Laws/8-201%20Unified%20Standards%20Revision%20Act.md)

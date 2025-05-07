@@ -28,5 +28,6 @@ This bill proposes a new law covering trials or impeachment. The procedure cover
 ### Section IV - Enactment
 
 This bill proposes a revision to the Constitution and a new law simultaneously. If passed, both the new law and the revised Constitution go into effect as soon as this bill is passed by both Councils. The revised Constitution and the new law may not take effect without the other.
+
 ---
 [View full history of this item](https://github.com/Szeraax/Legislature/commits/main/Laws/7-302%20Constitutional%20Revision%20Act.md)

@@ -5,5 +5,6 @@
 
 # Voting Procedures Act
 This Act is to provide a clear and simple process for voting on legislation.
+
 ---
 [View full history of this item](https://github.com/Szeraax/Legislature/commits/main/Laws/7-201%20Voting%20Procedure%20Act.md)

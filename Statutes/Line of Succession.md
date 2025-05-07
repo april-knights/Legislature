@@ -25,5 +25,6 @@ If the Grandmaster does not make contact of any kind with any knight for more th
 
 ### Section VIII
 This act shall take effect as soon as voted and approved by both Councils.
+
 ---
 [View full history of this item](https://github.com/Szeraax/Legislature/commits/main/Statutes/Line%20of%20Succession.md)

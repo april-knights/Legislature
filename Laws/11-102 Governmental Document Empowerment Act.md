@@ -68,5 +68,6 @@ As an example of what the workflow would look like for proposing legislation:
 
 ## Enactment
 This act will take effect as soon as it passes the Upper Council and Lower Council. Future changes to further simplify or make statutes more intuitive should be expected, but there are no riders that automatically enact anything more than what is contained in this act.
+
 ---
 [View full history of this item](https://github.com/Szeraax/Legislature/commits/main/Laws/11-102%20Governmental%20Document%20Empowerment%20Act.md)
