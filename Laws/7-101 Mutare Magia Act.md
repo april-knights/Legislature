@@ -29,20 +29,20 @@ The Archmage is also obliged to keep the members of the Upper Council appraised 
 2. Creates the Amendment wording to be explicitly inserted into the Constitution
 
 ### Section II
-1. Appends to the end of the Constitution, after Article 6, [the following](/Statutes/Constitution.md#amendment-1).
+1. Appends to the end of the Constitution, after Article 6, [the following](../Statutes/Constitution.md#amendment-1).
 
 ## Article 4 - Additional Changes to Constitution
 ### Section I
-* Article 2, Section 1, Paragraph 1 shall be edited [to read](/Statutes/Constitution.md#section-1-1).
+* Article 2, Section 1, Paragraph 1 shall be edited [to read](../Statutes/Constitution.md#section-1-1).
 
 ### Section II
-* Article 3, Section 1, Paragraph 1 shall be edited [to read](/Statutes/Constitution.md#section-1-2).
+* Article 3, Section 1, Paragraph 1 shall be edited [to read](../Statutes/Constitution.md#section-1-2).
 
 ### Section III
-* Article 3, Section 1, Paragraph 3 shall be edited [to read](/Statutes/Constitution.md#section-1-2).
+* Article 3, Section 1, Paragraph 3 shall be edited [to read](../Statutes/Constitution.md#section-1-2).
 
 ### Section IV
-* Article 3, Section 1, Paragraph 4 shall be inserted [to read](/Statutes/Constitution.md#section-1-2).
+* Article 3, Section 1, Paragraph 4 shall be inserted [to read](../Statutes/Constitution.md#section-1-2).
 
 ## Article 5 - Implementation
 ### Section I

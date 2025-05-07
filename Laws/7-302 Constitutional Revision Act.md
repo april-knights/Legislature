@@ -5,7 +5,7 @@
 
 # Constitutional Revision Act
 
-This bill arrives in the wake of the Constitutional Rearrangement Act, [found here](/Laws/7-301%20Constitutional%20Rearrangement%20Act.md). This bill of revision aims to address the remaining areas in which the Constitution v2.0 needs improvement. This is the second and final phase of Constitutional changes intended at this time.
+This bill arrives in the wake of the Constitutional Rearrangement Act, [found here](../Laws/7-301%20Constitutional%20Rearrangement%20Act.md). This bill of revision aims to address the remaining areas in which the Constitution v2.0 needs improvement. This is the second and final phase of Constitutional changes intended at this time.
 
 ### Section I - Overview of changes
 
@@ -19,7 +19,7 @@ This bill arrives in the wake of the Constitutional Rearrangement Act, [found he
 
 ### Section II - Revised Constitution
 
-This bill proposes a revised Constitution to include the changes outlined above. That document can be [found here](/Statutes/Constitution.md).
+This bill proposes a revised Constitution to include the changes outlined above. That document can be [found here](../Statutes/Constitution.md).
 
 ### Section III - New Trials law
 

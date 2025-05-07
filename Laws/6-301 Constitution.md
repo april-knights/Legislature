@@ -6,7 +6,7 @@
 I, Ghostise, acting in full power of my command as Grandmaster of the April Knights, ordain this charter for the April Knights.
 
 ## Signatures
-![signatures](/References/6-301-1.png)
+![signatures](../References/6-301-1.png)
 
 Ghostise, Grandmaster of the April Knights and Commander of the  Knights of the Church.
 

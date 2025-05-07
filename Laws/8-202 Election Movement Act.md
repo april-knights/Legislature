@@ -4,7 +4,7 @@
 [Passed Date: 3/9/2024]: #
 
 # Election Movement Act
-This bill proposes moving the April Knights Grandmaster election to late January. The law document executing this change can be found [here](/Statutes/Elections.md). The purpose of this document is to highlight the reasons why such a move would be beneficial for the Knights. If this bill passes, the law linked will be put into effect.
+This bill proposes moving the April Knights Grandmaster election to late January. The law document executing this change can be found [here](../Statutes/Elections.md). The purpose of this document is to highlight the reasons why such a move would be beneficial for the Knights. If this bill passes, the law linked will be put into effect.
 
 ### Section I - Overview of reasons
 1. Healthier for the candidates
@@ -26,17 +26,17 @@ Treating the July event as a benchmark, we can measure how likely our Knights ar
 
 [This spreadsheet](https://docs.google.com/spreadsheets/d/1v_FhN9lcz8-3yN95BYIMjbrTK5TGoVjDsFle_OO96ZM/edit?usp=sharing) analyzes all Knights currently in the server, in addition to three Knights who have left but voted in the 2022 election. Select charts are included below.
 
-![Alt text](/References/8-202-1.png)
+![Alt text](../References/8-202-1.png)
 
 Both seasonal and non-seasonal Knights are equally likely to respond to an out-of-season “Call To Arms”
 
-![Alt text](/References/8-202-2.png)
+![Alt text](../References/8-202-2.png)
 
 Focusing on the Knights that were active in July, only half of them voted. Knights that were active at any time this past year, the interest in voting was even lower.
 
-![Alt text](/References/8-202-3.png)
+![Alt text](../References/8-202-3.png)
 
-![Alt text](/References/8-202-4.png)
+![Alt text](../References/8-202-4.png)
 
 Our voter rate is lower than our July activity rate, despite being advertised longer. Our voter participation rate is not due to a lack of opportunity. Moving it to a slower time of the year will not suppress votes; it will give us time to focus on the election without suppressing the fun stuff.
 
@@ -51,12 +51,12 @@ Changes to
 
 > *The Grandmaster shall serve a term lasting from the moment they are sworn in until the next Grandmaster is sworn in.*
 
-This bill will also preserve the **already passed** Constitutional revision detailed in the Election Act v1.0 [here](/Statutes/Constitution.md).
+This bill will also preserve the **already passed** Constitutional revision detailed in the Election Act v1.0 [here](../Statutes/Constitution.md).
 
 ### *Section IV - Revise Election Act*
 The Election Act will need to be revised to reflect the new election date.
 
-The previous version is here. The new version is [here](/Statutes/Elections.md), and will replace the previous version.
+The previous version is here. The new version is [here](../Statutes/Elections.md), and will replace the previous version.
 
 ### Section V - Enactment
 1. This bill proposes a revision to the Constitution and Election Act simultaneously. If passed, both the revisions go into effect as soon as this bill is passed by both Councils. The revisions may not take effect without each other.

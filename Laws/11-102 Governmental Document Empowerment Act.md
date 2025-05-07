@@ -40,14 +40,14 @@ The above is not an exhaustive list of headings that may be used within an act, 
 
 Each article or section heading may be listed with an article or section number and the heading name or just the heading name. Acts and their corresponding statutory changes should follow the markdown standard where possible.
 
-When a statute update doesn't have a clear act associated with its change, it may be noted what the effective date of the version is along with what act caused the change (such as in the case of [8-104 (Election Act)](/Laws/8-104%20Election%20Act.md) which edited the constitution at a later date)
+When a statute update doesn't have a clear act associated with its change, it may be noted what the effective date of the version is along with what act caused the change (such as in the case of [8-104 (Election Act)](../Laws/8-104%20Election%20Act.md) which edited the constitution at a later date)
 
 The authoritative list of governing documents is to be maintained by the Arcaenum and shall be known as the official April Knights repository.
 
 ### Migration Notes
 There are some minor changes made to acts, as a part of migrating to the VCS, that change their links or remove specific text from the act, in order to prevent duplicating text within the repository. Preventing unnecessary duplication makes it easier to find exactly what is desired in the statutes quickly.
 
-The [First Herald Renaming Act](/Laws/9-102%20First%20Herald%20Renaming%20Act.md) (FHRA) calls for changes that don't make sense in a VCS to the Mutare Magia Act (MMA). FHRA calls for the MMA to be updated to version 7.1. However, in the VCS, acts don't have versions or updates; once an act is passed, it never changes. Only statutes have versions because they are the documents that get edits from acts.
+The [First Herald Renaming Act](../Laws/9-102%20First%20Herald%20Renaming%20Act.md) (FHRA) calls for changes that don't make sense in a VCS to the Mutare Magia Act (MMA). FHRA calls for the MMA to be updated to version 7.1. However, in the VCS, acts don't have versions or updates; once an act is passed, it never changes. Only statutes have versions because they are the documents that get edits from acts.
 
 ## Statutory Changes
 All governing documents within the April Knights are officially changed as a result of this act, so they are not being listed individually. In all documents, most numbering has been removed as it is no longer needed and only increases the maintenance burden of keeping things up to date.
@@ -56,7 +56,7 @@ As the arbiters have been removed from the order, mentions of them also are remo
 
 The most significant changes be reviewed from this act:
 
-* [Legislation](/Statutes/Legislation.md) (renamed from Voting to Legislation)
+* [Legislation](../Statutes/Legislation.md) (renamed from Voting to Legislation)
 
 ## Workflow
 As an example of what the workflow would look like for proposing legislation:

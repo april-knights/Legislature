@@ -44,7 +44,7 @@ This proposed revision changes only things that were incorrect in some way, redu
 1. Amend1S1p4 Changed “access restriction” to “restricting access”
 1. A5S1p1 Changed “Both Councils have the power to grant emergency powers to the Grandmaster, suspending their authority.” to “Both Councils have the power to grant emergency powers to the Grandmaster. This suspends the authority of both Councils.” This makes it more clear that it is the authority of the councils and not the GM that is being suspended.
 
-*A visual guide to the rearrangement can be found [here](/References/7-301.pdf)*
+*A visual guide to the rearrangement can be found [here](../References/7-301.pdf)*
 
 # Current arrangement
 ~~~
