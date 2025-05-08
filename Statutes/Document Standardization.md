@@ -1,5 +1,7 @@
 [Version: 1.2]: #
 
+# Document Standardization
+
 ## Article 1 - Version Standardization
 
 ### Section I
@@ -34,3 +36,6 @@ The scribe is responsible for ensuring every version of every document is stored
 
 ### Section I
 This act shall take effect as soon as voted and approved by both Councils, and confirmed by the Grandmaster.
+
+---
+[View full history of this item](https://github.com/Szeraax/Legislature/commits/main/Statutes/Document%20Standardization.md)

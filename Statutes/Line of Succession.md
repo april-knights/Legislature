@@ -1,5 +1,7 @@
 [Version: 1.1]: #
 
+# Line of Succession
+
 ### Section I
 The Grandmaster has the power to appoint any member of the Upper Council his regent and should inform both Councils of how long he will be absent for. Should the Grandmaster arrive earlier, the regency shall end and the Grandmaster assume command once again. The regent can hold their office of regent for ninety (90) days until they must forfeit the regency and the powers of the Grandmaster shall proceed down the line of succession outlined in this act.
 
@@ -23,3 +25,6 @@ If the Grandmaster does not make contact of any kind with any knight for more th
 
 ### Section VIII
 This act shall take effect as soon as voted and approved by both Councils.
+
+---
+[View full history of this item](https://github.com/Szeraax/Legislature/commits/main/Statutes/Line%20of%20Succession.md)
