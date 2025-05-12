@@ -1,5 +1,7 @@
 [Version: 1.0]: #
 
+# Character and Language
+
 ## Article 1 - Language Standardization
 
 ### Section I
@@ -17,5 +19,6 @@ All legislation, in order to ensure accessibility to all inside the Order, shoul
 Only ASCII (American Standard Code for Information Interchange) characters are to be used in official Knight documents. This avoids confusion and incompatibility with regionalized characters in other sets (e.g. Unicode).
 
 ## Article 3 - Implementation
+
 ### Section I
 This act shall take effect as soon as voted and approved by both Councils, and confirmed by the Grandmaster.
