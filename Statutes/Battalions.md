@@ -1,5 +1,6 @@
 [Version: 1.1]: #
 
+# Battalions
 The battalion is the core organizational unit of the April Knights. They are the tools that the Grandmaster uses for planning, and their quality is of the utmost importance for the collective success of the Order. This act is to set maximums on the amount of members a battalion can have and how many Officers should be in each battalion.
 
 ### Section I
