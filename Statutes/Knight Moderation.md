@@ -2,7 +2,7 @@
 This law describes how the April Knights may conduct issues of moderation. 
  
 ## Section I - Reasons
-A Knight may be accused of any of several misdeeds. The rules that all Knights must follow are as follows (and also contained in our Discord server rules channel). 
+A person or Knight may be accused of any of several misdeeds. The rules that all members and Knights must follow are as follows (and also contained in our Discord server rules channel). 
 ### RULES for everyone
 1. Remember the human. ~ We're mostly adults here; any hate speech, racist or sexist remarks, harassment, bullying, disruptive behavior, excessive arguing, or pure disrespect will not be tolerated.
 1. Be tasteful. ~ No NSFW content allowed. Do not break Terms Of Service of any Knight platform (Reddit, Discord, etc), primarily the ones of ethical or moral concern.
@@ -15,10 +15,12 @@ Respect others' privacy. ~ Don't post private information or dox others. This wi
 ### RULES for Knights
 1. Follow the rules above.
 1. Be kind ~ A true Knight is always honorable.
-1. Listen to your superiors ~ Our discipline is where we get our strength. Always follow #⁠orders.
+1. Listen to your superiors ~ Our discipline is where we get our strength. Always follow #⁠orders and #laws.
 1. Keep it secret ~ Do not leak any material from channels that are not open to the public. Make sure whoever you are talking to is authorized to see the information you are discussing.
 1. Loyalty above all ~ We rely on the loyalty of our knights. Do not take actions that may harm the Order or its members.
 1. Uphold integrity ~ Do not abuse the powers and privileges granted to you by your rank or position.
+
+NOTE: Abusing the powers of moderation granted within this law violates the tenet of "Uphold integrity", and therefore is also a misdeed.
 
 ## Section II - Knights
 
