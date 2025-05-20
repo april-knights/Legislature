@@ -1,7 +1,7 @@
 # Knight Moderation Law
 This law describes how the April Knights may conduct issues of moderation. 
  
-## Section I - Reasons
+## Section I - Rules
 A person or Knight may be accused of any of several misdeeds. The rules that all members and Knights must follow are as follows (and also contained in our Discord server rules channel). 
 ### RULES for everyone
 1. Remember the human. ~ We're mostly adults here; any hate speech, racist or sexist remarks, harassment, bullying, disruptive behavior, excessive arguing, or pure disrespect will not be tolerated.
